@@ -60,6 +60,7 @@ experiences:
       company: Seoul, South Korea
       details: |
         Achievement: 17/30 finalists
+        
         My first overseas CTF!
       
     - role: CrossCTF Finals
@@ -67,13 +68,23 @@ experiences:
       company: Singapore
       details: |
         Achievement: 4th
+        
         24-hour CTF in Singapore, hosted by NUS Greyhats, NTU Offsec, SMU Whitehats.
+      
+    - role: Defcamp CTF Finals
+      time: 2018
+      company: Bucharest, Romania
+      details: |
+        Achievement: 12/17 finalists
+        
+        Participated in the Defcamp CTF Finals with team HATS Singapore after qualifiying from a 10th place finish in the Qualifiers.
       
     - role: Cybersecurity Challenge Singapore
       time: 2018
       company: Singapore
       details: |
         One of six winners after qualification and F2F round.
+        
         Invited to participate in Cybersecurity Challenge UK with the other 5 winners.
 
     - role: Cybersecurity Challenge UK
