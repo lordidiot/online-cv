@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -53,9 +53,7 @@ education:
       time: 2018 - Present
       details: |
         HL [Physics, Chemistry, Math]
-        
         SL [Language and Literature, Mandarin B, Economics]
-      
         Status: Still schooling
 
 experiences:
@@ -93,13 +91,13 @@ experiences:
 
     - role: Cybersecurity Challenge UK
       time: 2018
-      location: London, United Kingdom
+      company: London, United Kingdom
       details: |
         link: https://www.csa.gov.sg/news/news-articles/singaporean-players-showcased-their-cybersecurity-skills-in-the-uk-masterclass-final
         
     - role: Global Cybersecurity Camp (GCC)
       time: 2019
-      location: Seoul, South Korea
+      company: Seoul, South Korea
       details: |
         Participant of the first Global Cybersecurity Camp (GCC) hosted by KITRI Best of the Best (BoB) Programme jointly with Security Camp (Japan), AIS3 (Taiwan) and Division Zero (Singapore).
         
