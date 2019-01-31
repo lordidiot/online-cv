@@ -55,30 +55,39 @@ education:
       Status: Currently studying
 
 experiences:
-    - event: CODEGATE Junior CTF Finals
-      location: Seoul, South Korea
-      year: 2018
-      achievement: 17/30 finalists
+    - role: CODEGATE Junior CTF Finals
+      time: 2018
+      company: Seoul, South Korea
+      details: |
+        Achievement: 17/30 finalists
+        My first overseas CTF!
       
-    - event: CrossCTF Finals
-      year: 2018
-      location: Singapore
-      achievement: 4th
+    - role: CrossCTF Finals
+      time: 2018
+      company: Singapore
+      details: |
+        Achievement: 4th
+        24-hour CTF in Singapore, hosted by NUS Greyhats, NTU Offsec, SMU Whitehats.
       
-    - event: Cybersecurity Challenge Singapore
-      location: Singapore
-      year: 2018
-      achievement: One of six winners
-                   Invited to participate in Cybersecurity Challenge UK
+    - role: Cybersecurity Challenge Singapore
+      time: 2018
+      company: Singapore
+      details: |
+        One of six winners after qualification and F2F round.
+        Invited to participate in Cybersecurity Challenge UK with the other 5 winners.
 
-    - event: Cybersecurity Challenge UK
+    - role: Cybersecurity Challenge UK
+      time: 2018
       location: London, United Kingdom
-      year: 2018
-      link: https://www.csa.gov.sg/news/news-articles/singaporean-players-showcased-their-cybersecurity-skills-in-the-uk-masterclass-final
+      details: |
+        link: https://www.csa.gov.sg/news/news-articles/singaporean-players-showcased-their-cybersecurity-skills-in-the-uk-masterclass-final
         
-    - event: Global Cybersecurity Camp (GCC)
+    - role: Global Cybersecurity Camp (GCC)
+      time: 2019
       location: Seoul, South Korea
-      year: 2019
+      details: |
+        Participant of the first Global Cybersecurity Camp (GCC) hosted by KITRI Best of the Best (BoB) Programme jointly with Security Camp (Japan), AIS3 (Taiwan) and Division Zero (Singapore).
+        
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
