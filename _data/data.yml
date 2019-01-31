@@ -39,7 +39,7 @@ sidebar:
         link: https://hackerone.com/lord_idiot
 
 career-profile:
-    title: Career Profile
+    title: whoami
     summary: |
       I am Calvin Fong, usually going by the handle Lord_Idiot.
       I am currently studying in Junior College in Singapore.
@@ -48,11 +48,15 @@ career-profile:
       web security too!
 
 education:
-    - Junior College: Anglo-Chinese School (Independent)
-      Course of study: International Baccalaureate (IB)
-      Subject combination: HL [Physics, Chemistry, Math]
-                           SL [Language and Literature, Mandarin B, Economics]
-      Status: Currently studying
+    - degree: International Baccalaureate (IB)
+      university: Anglo-Chinese School (Independent)
+      time: 2018 - Present
+      details: |
+        HL [Physics, Chemistry, Math]
+        
+        SL [Language and Literature, Mandarin B, Economics]
+      
+        Status: Still schooling
 
 experiences:
     - role: CODEGATE Junior CTF Finals
