@@ -71,6 +71,8 @@ experiences:
       details: |
         Achievement: 4th
         
+        Team: ret_to_ac
+        
         24-hour CTF in Singapore, hosted by NUS Greyhats, NTU Offsec, SMU Whitehats.
       
     - role: Defcamp CTF Finals
@@ -78,6 +80,8 @@ experiences:
       company: Bucharest, Romania
       details: |
         Achievement: 12/17 finalist teams
+        
+        Team: HATS Singapore
         
         Participated in the Defcamp CTF Finals with team HATS Singapore after qualifiying from a 10th place finish in the Qualifiers.
       
@@ -100,6 +104,14 @@ experiences:
       company: Seoul, South Korea
       details: |
         Participant of the first Global Cybersecurity Camp (GCC) hosted by KITRI Best of the Best (BoB) Programme jointly with Security Camp (Japan), AIS3 (Taiwan) and Division Zero (Singapore).
+
+    - role: Whitehacks
+      time: 2019
+      company: Singapore
+      details: |
+        Achievement: Champion team
+        
+        Team: ret_to_ac
 
     - role: CODEGATE Junior CTF Finals
       time: 2019
